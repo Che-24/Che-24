@@ -1,4 +1,4 @@
-👋 Hi, I'm @Che-24
+👋 I'm @Che-24
 🚀 Passionate about leveraging Python,Sql and MLOps to build scalable, efficient, and impactful AI-driven solutions.
 🔍 Currently deepening my expertise in ML workflows, model deployment, and continuous integration for machine learning.
 💡 Always looking for opportunities to collaborate on innovative projects and bring fresh, data-driven ideas to life.
